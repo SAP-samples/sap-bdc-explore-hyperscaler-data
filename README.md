@@ -4,7 +4,7 @@
 -->
 
 ## Description
-SAP Datasphere, which is an integral part of SAP Business Data Cloud, empowers organizations with a comprehensive business data fabric architecture, seamlessly integrating mission-critical data from across the enterprise. In the Open data ecosystem integration architecture, SAP Datasphere goes beyond merely connecting SAP data; it also integrates non-SAP data from leading hyperscaler services such as AWS, Microsoft Azure, and Google Cloud Platform. This repository provides guides the users in integrating hyperscaler data sources with SAP Datasphere.
+SAP Datasphere, which is an integral part of SAP Business Data Cloud, empowers organizations with a comprehensive business data fabric architecture, seamlessly integrating mission-critical data from across the enterprise. <br> In the Open data ecosystem integration architecture, SAP Datasphere goes beyond merely connecting SAP data; it also integrates non-SAP data from leading hyperscaler services such as AWS, Microsoft Azure, and Google Cloud Platform. This repository offers step-by-step guidance for integrating hyperscaler data sources with SAP Datasphere.
 
 ## Requirements
 <ul><li>SAP Business Data Cloud's SAP Datasphere instance </li>
