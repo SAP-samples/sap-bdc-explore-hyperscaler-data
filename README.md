@@ -1,7 +1,5 @@
 # Explore Hyperscaler data with SAP Business Data Cloud
-<!--- Register repository https://api.reuse.software/register, then add REUSE badge:
-[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/REPO-NAME)](https://api.reuse.software/info/github.com/SAP-samples/REPO-NAME)
--->
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/sap-bdc-explore-hyperscaler-data)](https://api.reuse.software/info/github.com/SAP-samples/sap-bdc-explore-hyperscaler-data)
 
 ## Description
 SAP Datasphere, which is an integral part of SAP Business Data Cloud, empowers organizations with a comprehensive business data fabric architecture, seamlessly integrating mission-critical data from across the enterprise. <br> In the Open data ecosystem integration architecture, SAP Datasphere goes beyond merely connecting SAP data; it also integrates non-SAP data from leading hyperscaler services such as AWS, Microsoft Azure, and Google Cloud Platform. This repository offers step-by-step guidance for integrating hyperscaler data sources with SAP Datasphere.
